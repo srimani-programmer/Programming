@@ -1,0 +1,7 @@
+/**
+ * Inheritance
+ */
+public class Inheritance {
+
+    
+}
